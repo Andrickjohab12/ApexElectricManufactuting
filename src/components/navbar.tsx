@@ -13,7 +13,7 @@ export function Navbar() {
         <div className="flex justify-between items-center h-20">
           <Link href="/" className="flex items-center space-x-2">
             <Zap className="h-8 w-8 text-blue-700" />
-            <span className="text-xl font-bold text-blue-700">APEX Electring</span>
+            <span className="text-xl font-bold text-blue-700">APEX Electric</span>
           </Link>
 
           {/* Desktop Navigation */}
@@ -23,6 +23,9 @@ export function Navbar() {
             </Link>
             <Link href="/nosotros" className="text-gray-700 hover:text-blue-700 font-medium">
               Nosotros
+            </Link>
+            <Link href="/proyectos" className="text-gray-700 hover:text-blue-700 font-medium">
+              Proyectos
             </Link>
             <Link href="/cita" className="text-gray-700 hover:text-blue-700 font-medium">
               Agendar Cita
@@ -65,6 +68,13 @@ export function Navbar() {
                 onClick={() => setIsMenuOpen(false)}
               >
                 Nosotros
+              </Link>
+              <Link
+                href="/proyectos"
+                className="text-gray-700 hover:text-blue-700 font-medium"
+                onClick={() => setIsMenuOpen(false)}
+              >
+                Proyectos
               </Link>
               <Link
                 href="/cita"

@@ -4,6 +4,7 @@ import { TestimonialsSection } from "@/components/testimonials-section"
 import { CTASection } from "@/components/cta-section"
 import { Navbar } from "@/components/navbar"
 import { Footer } from "@/components/footer"
+import { FeaturedProjects } from "@/components/featured-projects"
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <main>
         <HeroSection />
         <ServicesSection />
+        <FeaturedProjects />
         <TestimonialsSection />
         <CTASection />
       </main>

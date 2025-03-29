@@ -51,7 +51,7 @@ export function Receipt({ data, onNewAppointment }: ReceiptProps) {
         </div>
         <h2 className="text-2xl font-bold text-green-600 mb-2">¡Solicitud Recibida!</h2>
         <p className="text-gray-600">
-          Gracias por solicitar una cita con APEX Electring. A continuación se muestra un resumen de su solicitud.
+          Gracias por solicitar una cita con APEX Electric Manufacturing. A continuación se muestra un resumen de su solicitud.
         </p>
       </div>
 
@@ -145,7 +145,7 @@ export function Receipt({ data, onNewAppointment }: ReceiptProps) {
       </Card>
 
       <div className="text-center text-gray-600 text-sm">
-        <p>Si tiene alguna pregunta, contáctenos al +52 55 1234 5678 o envíe un correo a contacto@apexelectring.com</p>
+        <p>Si tiene alguna pregunta, contáctenos al +52 6631276214 o envíe un correo a admin@apexemtj.com</p>
       </div>
     </div>
   )

@@ -9,7 +9,7 @@ export function Footer() {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <Zap className="h-8 w-8" />
-              <span className="text-xl font-bold">APEX Electring</span>
+              <span className="text-xl font-bold">APEX Electric</span>
             </div>
             <p className="mb-4">Soluciones eléctricas profesionales para hogares y empresas en todo México.</p>
             <div className="flex space-x-4">
@@ -48,6 +48,9 @@ export function Footer() {
               <Link href="/nosotros" className="hover:text-blue-200 transition-colors">
                 Nosotros
               </Link>
+              <Link href="/proyectos" className="hover:text-blue-200 transition-colors">
+                Proyectos
+              </Link>
               <Link href="/cita" className="hover:text-blue-200 transition-colors">
                 Agendar Cita
               </Link>
@@ -72,18 +75,18 @@ export function Footer() {
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5" />
-                <span>+52 55 1234 5678</span>
+                <span>+52 6631276214</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5" />
-                <span>contacto@apexelectring.com</span>
+                <span>admin@apexemtj.com</span>
               </div>
             </div>
           </div>
         </div>
 
         <div className="border-t border-blue-600 mt-12 pt-8 text-center">
-          <p>&copy; {new Date().getFullYear()} APEX Electring Manufacturing. Todos los derechos reservados.</p>
+          <p>&copy; {new Date().getFullYear()} APEX Electric Manufacturing. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>

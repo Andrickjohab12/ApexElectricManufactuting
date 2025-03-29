@@ -20,7 +20,7 @@ export default function AboutUs() {
             <div className="p-6">
               <h2 className="text-2xl font-semibold text-blue-700 mb-4">Nuestra Historia</h2>
               <p className="text-gray-700 mb-4">
-                Fundada en 2010, APEX Electring Manufacturing se ha convertido en un líder en el sector de instalaciones
+                Fundada en 2023, APEX  se ha convertido en un líder en el sector de instalaciones
                 eléctricas en México. Comenzamos como una pequeña empresa familiar y hemos crecido hasta convertirnos en
                 un proveedor confiable tanto para hogares como para empresas en todo el país.
               </p>
@@ -54,7 +54,7 @@ export default function AboutUs() {
           <div className="bg-white rounded-lg shadow-lg p-6 mb-10">
             <h2 className="text-2xl font-semibold text-blue-700 mb-4">Nuestro Equipo</h2>
             <p className="text-gray-700 mb-4">
-              En APEX Electring, contamos con un equipo de profesionales altamente capacitados y certificados. Nuestros
+              En APEX , contamos con un equipo de profesionales altamente capacitados y certificados. Nuestros
               técnicos tienen años de experiencia en el sector y reciben formación continua para mantenerse al día con
               las últimas tecnologías y normativas.
             </p>
@@ -68,7 +68,7 @@ export default function AboutUs() {
           <div className="bg-white rounded-lg shadow-lg p-6">
             <h2 className="text-2xl font-semibold text-blue-700 mb-4">Certificaciones y Garantías</h2>
             <p className="text-gray-700 mb-4">
-              APEX Electring cuenta con todas las certificaciones necesarias para realizar instalaciones eléctricas en
+              APEX  cuenta con todas las certificaciones necesarias para realizar instalaciones eléctricas en
               México. Cumplimos con todas las normativas y estándares de seguridad nacionales e internacionales.
             </p>
             <p className="text-gray-700">

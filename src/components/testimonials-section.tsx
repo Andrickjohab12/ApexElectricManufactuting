@@ -22,7 +22,7 @@ export function TestimonialsSection() {
               <Star className="fill-current h-5 w-5" />
             </div>
             <p className="text-gray-700 mb-6 italic">
-              "APEX Electring realizó la instalación eléctrica completa de nuestra nueva casa. El trabajo fue impecable,
+              "APEX  realizó la instalación eléctrica completa de nuestra nueva casa. El trabajo fue impecable,
               cumplieron con los plazos y el presupuesto. Altamente recomendados."
             </p>
             <div className="flex items-center">
@@ -68,7 +68,7 @@ export function TestimonialsSection() {
               <Star className="fill-current h-5 w-5" />
             </div>
             <p className="text-gray-700 mb-6 italic">
-              "Nuestra fábrica necesitaba una actualización completa del sistema eléctrico. APEX Electring hizo un
+              "Nuestra fábrica necesitaba una actualización completa del sistema eléctrico. APEX Electric Manufacturing hizo un
               trabajo excepcional, minimizando el tiempo de inactividad y garantizando la seguridad de nuestras
               instalaciones."
             </p>
