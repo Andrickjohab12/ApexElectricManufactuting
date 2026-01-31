@@ -1,4 +1,4 @@
-<h2>APEX ELECTRIC MANUFACTURING<h2>
+<h2>APEX ELECTRIC MANUFACTURING</h2>
 <br><br>
   Esta pagina esta hecha para las necesidades de la empresa ApexElectricManufactuting una empresa de instalaciones electricas
   <br><br>
